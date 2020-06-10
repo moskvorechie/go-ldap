@@ -1,6 +1,6 @@
-module go-ldap
+module github.com/moskvorechie/go-ldap
 
-go 1.13
+go 1.14
 
 require (
 	github.com/astaxie/beego v1.12.0
